@@ -1,3 +1,7 @@
 body {
 	background-color: lightblue;
 	}
+
+	img:nth-of-type(1){
+		float: right;
+	}
